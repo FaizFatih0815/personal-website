@@ -35,7 +35,7 @@ export default function Header() {
       <div className="flex justify-between items-center px-6 py-3 font-ibm ">
         <a href="#HERO" className="relative w-[115px] h-[30px] ">
           <Image
-            src="/group3.png"
+            src="/Group3.png"
             alt="Image header"
             fill
             className="object-contain object-left "

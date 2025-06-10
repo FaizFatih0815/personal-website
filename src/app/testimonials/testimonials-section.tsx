@@ -13,7 +13,7 @@ export default function TestimonialsSection() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 text-center md:text-left">
           <div className="w-[120px] h-[120px] rounded-full overflow-hidden relative">
             <Image
-              src="/user_1.jpg"
+              src="/User_1.jpg"
               alt="user 1"
               fill
               className="object-cover"
@@ -34,7 +34,7 @@ export default function TestimonialsSection() {
         <div className="flex flex-col md:flex-row-reverse items-center justify-center gap-6 text-center md:text-right">
           <div className="w-[120px] h-[120px] rounded-full overflow-hidden relative">
             <Image
-              src="/user_2.jpg"
+              src="/User_2.jpg"
               alt="user 2"
               fill
               className="object-cover"
@@ -55,7 +55,7 @@ export default function TestimonialsSection() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 text-center md:text-left">
           <div className="w-[120px] h-[120px] rounded-full overflow-hidden relative">
             <Image
-              src="/user_3.jpg"
+              src="/User_3.jpg"
               alt="user 3"
               fill
               className="object-cover"

@@ -9,7 +9,7 @@ export default function HomeSection() {
       <div className="grid grid-cols-1 lg:grid-cols-[0.5fr_0.75fr] items-center gap-8 pt-6">
         <div className="w-full flex justify-center">
           <Image
-            src="/group4.png"
+            src="/Group4.png"
             alt="Foto Profile"
             width={500}
             height={500}
